@@ -7,7 +7,7 @@ AMKVisibleTouches
 
 GitHub
 ------
-https://github.com/AndyM129/AMKMethodSwizzling
+https://github.com/AndyM129/AMKVisibleTouches
 
 PS：这是我开源的第一个项目，一个UIWindow的category。
 
